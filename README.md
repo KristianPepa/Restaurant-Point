@@ -1,7 +1,7 @@
 # Simple Vehicle Shop Management Application
 
-![image](https://github.com/KristianPepa/Python-Application/assets/80427725/a494233d-320a-4abd-ac80-f5c70e242073)
-
+![Image 1](image.png)
+![Image 2](image-1.png)
 This repository contains a Python application designed to manage restaurants,restaurant menus, menu items
 and tables. The application provides a responsive and intuitive user interface. 
 
@@ -29,7 +29,8 @@ To get started with the application:
 
 1. Clone the repository to your local machine.
 2. Install the required dependencies using pip.
-3. Run the following code to start the application py/python view.py 
+3. Run the following code to start the application py/python view.py
+4. Put the following informations, Username: 1, Password: 1
 
 ## License
 
